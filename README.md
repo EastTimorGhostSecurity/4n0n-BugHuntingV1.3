@@ -39,4 +39,4 @@ Install Dependencies
       python3 4n0n-BugHuntingV1.3.py
 
 Contributions & Contact 🤝
-   Contributions, suggestions, and bug reports are highly welcome! Please submit a pull request or open an issue if you encounter any problems. For further inquiries or more information about the team, feel free to reach out via Telegram:t.me/Easttimor_ghostsec
+   Contributions, suggestions, and bug reports are highly welcome! Please submit a pull request or open an issue if you encounter any problems. For further inquiries or more information about the team, feel free to reach out via Telegram:https://t.me/Easttimor_ghostsec
