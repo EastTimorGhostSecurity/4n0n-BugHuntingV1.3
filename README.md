@@ -2,6 +2,11 @@
 
    4n0n-BugHunting V1.3 is a comprehensive toolkit designed for penetration testing and vulnerability assessment. This project is tailored for cybersecurity professionals and offers an extensive suite of testing modules, including SQL Injection, SSH, XSS, CSRF, RCE, LFI, and more. Featuring advanced capabilities such as encrypted logging, anonymity via Tor, and stealth scanning techniques, this tool enables security teams to identify and mitigate potential risks efficiently and securely.
 
+   ![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen)
+   ![Stars](https://img.shields.io/github/stars/EastTimorGhostSecurity?style=social)
+
+   ![My Photo](./template.png)
+   
 Install Dependencies
 
        pip3 install paramiko requests colorama jinja2 cryptography pysocks dnspython urllib3
