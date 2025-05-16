@@ -12,6 +12,12 @@ Install Dependencies
 
        pip3 install paramiko requests colorama jinja2 cryptography pysocks dnspython urllib3
 
+🐳 Run Whit Docker
+
+       docker build -t bughunter .
+
+       docker run -it --rm --network host bughunter
+
 📱 Termux (Android)
 
        pkg install update && pkg upgrade -y
