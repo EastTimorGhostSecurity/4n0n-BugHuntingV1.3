@@ -1,0 +1,6 @@
+paramiko
+requests
+colorama
+jinja2
+cryptography
+dnspython
